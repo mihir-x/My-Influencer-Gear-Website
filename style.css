@@ -84,16 +84,17 @@
     background: #E02C6D;
 }
 .banner-image{
-    
+    width: 50%;
     background-image: url("./images/Circledesign.svg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
-    padding-top: 2rem;
-    padding-left: .5rem;
+    object-fit: cover;
+    /* padding-top: 2rem;
+    padding-left: .5rem; */
 }
 .banner-image img{
-    width: auto;
+    width: 90%;
+    padding:8%;
 }
 
 
