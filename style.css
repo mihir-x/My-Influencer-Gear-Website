@@ -220,6 +220,7 @@
     }
     .feature-container{
         flex-direction: column-reverse;
+        gap: 1rem;
         text-align: center;
     }
 }
