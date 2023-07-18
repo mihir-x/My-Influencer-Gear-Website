@@ -88,7 +88,7 @@
     background-image: url("./images/Circledesign.svg");
     background-repeat: no-repeat;
     background-position: center;
-    object-fit: cover;
+    background-size: cover;
     /* padding-top: 2rem;
     padding-left: .5rem; */
 }
@@ -110,6 +110,7 @@
     }
     .banner-container{
         flex-direction: column-reverse;
+        margin: 2rem;
     }
     .banner-information, .banner-image{
         width: 100%;
