@@ -91,7 +91,7 @@
     background-image: url("./images/Circledesign.svg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     /* padding-top: 2rem;
     padding-left: .5rem; */
     /* object-fit: cover; */
